@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lumen</string>
+    <string name="home_override_label">Lumen Home button</string>
+    <string name="home_override_description">Opens Lumen when you press Home on the remote. Hold Home to open the stock Google TV screen. Lumen reads only remote key presses and which app window is in front. It does not read screen content or send anything anywhere.</string>
+</resources>

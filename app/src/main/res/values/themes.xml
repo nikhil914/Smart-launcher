@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lumen" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/lumen_background</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <color name="lumen_background">#FF0E1116</color>
+    <color name="lumen_accent">#FF7AA7FF</color>
+</resources>
